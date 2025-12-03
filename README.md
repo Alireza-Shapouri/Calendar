@@ -2,7 +2,7 @@
 
 MyCalendar is a modern, feature-rich calendar application built with **Vue 3** and **Tailwind CSS**. It is designed to support multiple calendar systems, making it perfect for users who need to switch between **Gregorian**, **Jalali (Persian)**, and **Hijri** dates seamlessly.
 
-![MyCalendar Banner](https://placehold.co/1200x400/1e293b/ffffff?text=MyCalendar+App)
+![MyCalendar Banner](./public/img1.jpg)
 
 ## ✨ Features
 
@@ -50,10 +50,6 @@ MyCalendar is a modern, feature-rich calendar application built with **Vue 3** a
     ```bash
     npm run build
     ```
-
-## 📸 Screenshots
-
-*(Add your screenshots here)*
 
 ## 🤝 Contributing
 
