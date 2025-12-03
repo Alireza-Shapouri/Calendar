@@ -11,6 +11,7 @@
 
         <!-- Side Panel (1 column on large screens) -->
         <div class="space-y-6">
+          <HadithCard />
           <DateConverter :selected-date="selectedDate" />
           <ReminderPanel :selected-date="selectedDate" />
         </div>
@@ -29,6 +30,7 @@
 import { onMounted, onUnmounted } from 'vue'
 import Header from './components/Header.vue'
 import CalendarView from './components/CalendarView.vue'
+import HadithCard from './components/HadithCard.vue'
 import DateConverter from './components/DateConverter.vue'
 import ReminderPanel from './components/ReminderPanel.vue'
 import NotificationToast from './components/NotificationToast.vue'
